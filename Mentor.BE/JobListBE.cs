@@ -12,7 +12,7 @@ namespace Mentor.BE
     }
 
     public class MyJobList
-    {/* abdul sami  */
+    {/* sami  */
         public int MarketJobID { get; set; }
         public int MemberId { get; set; }
         public int MemberDomainId { get; set; }
