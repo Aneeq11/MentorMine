@@ -8,7 +8,7 @@ using System.Web;
 using System.Web.Mvc;
 
 namespace Mentor.Controllers
-{
+{   
     public class JobController : Controller
     {
         public ActionResult prac()
