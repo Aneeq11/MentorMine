@@ -6,13 +6,15 @@ using System.Threading.Tasks;
 
 namespace Mentor.BE
 {
-    
+            
         public class TrainingsListBE
         {
             public List<MyTrainingList> myTrainings { get; set; }
         }
-
-        public class MyTrainingList
+    /// <summary>
+    /// MyTrainingList
+    /// </summary>
+    public class MyTrainingList
         {
             public string TaskTitle { get; set; }
             public string StartingDate { get; set; }
