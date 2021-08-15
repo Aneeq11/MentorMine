@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Mentor.BE
 {
+    /// <summary>
+    /// MemberCareerLevel
+    /// </summary>
     public class MemberCareerLevelBE
     {
         public int MemberCareerLevelId { get; set; }
